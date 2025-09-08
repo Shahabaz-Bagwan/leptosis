@@ -11438,7 +11438,7 @@
 			(uuid "6c97fc1d-a17f-4dae-905c-ab0b2943157a")
 		)
 		(embedded_fonts no)
-		(model "/home/cyao/Developer/ultraflat/hardware/library/leptiosis.pretty/SW-SMD_MSK12CO2.step"
+		(model "/home/shahabaz/repos/leptosis/hardware/library/leptiosis.pretty/SW-SMD_MSK12CO2.step"
 			(offset
 				(xyz 0 0 0.15)
 			)
